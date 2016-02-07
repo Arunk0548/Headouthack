@@ -1,0 +1,5 @@
+XSym
+0063
+d7c2cd11487ebfe48fb48807619c5866
+../../../../ProtocolBuffers/src/runtime/Classes/Descriptor.pb.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0060
+9f7c825d9d390c0c2caf83a2d56d27b7
+../../../../ProtocolBuffers/src/runtime/Classes/WireFormat.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
