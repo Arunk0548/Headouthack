@@ -5,7 +5,7 @@ Mobile app for food order placing via mobile peer-to-peer network over WiFi and 
 #Features
 Background working protocol short description
 
-Allows apps on mobile devices to auto-discover and connect to each other via Wi-Fi and Bluetooth without any intervention from the user and without using any Internet connection. Works both in foreground and background app modes.
+Allows apps on mobile devices to auto-discover and connect to each other via Wi-Fi and Bluetooth without any intervention from the user and without using any Internet connection.
 
 Routes messages from Wi-Fi to Bluetooth-connected devices and vice versa — so devices with turned off Wi-Fi will receive all the same data via Bluetooth.
 
@@ -19,4 +19,4 @@ There are two apps - Staff app or Server app which takes requests/serve food and
 
 Staff app has been developed in Android, and Customer app has been developed in iOS.
 
-When a customer place an order, it goes to Staff app and display on dashboard, Now staff will serve each individual items and send an invoice. Then Customer app request for payment and same payment request is acknowledge by customer app.
+When a customer place an order, it goes to Staff app and display on dashboard, Now staff will serve each individual items and send an invoice. Then Customer app request for payment and same payment request is acknowledge by Staff app.
