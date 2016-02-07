@@ -19,4 +19,4 @@ There are two apps - Staff app or Server app which takes requests/serve food and
 
 Staff app has been developed in Android, and Customer app has been developed in iOS.
 
-When a customer place an order, it goes to Staff app and display on dashboard, Now staff will serve each individual items and send an invoice. Then Customer app request for payment
+When a customer place an order, it goes to Staff app and display on dashboard, Now staff will serve each individual items and send an invoice. Then Customer app request for payment and same payment request is acknowledge by customer app.
